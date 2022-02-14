@@ -1,6 +1,5 @@
-name: Bug Report
+name: Bug Report {7*7}
 description: File a bug report
---- !ruby/object:Gem::Requirement
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
