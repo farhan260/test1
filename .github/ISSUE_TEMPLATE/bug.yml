@@ -5,11 +5,11 @@ labels: ["bug", "triage"]
 assignees:
   - octocat
 body:
-  - type: body[0]
+  - type: markdown
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
-  - type: input
+  - type: button
     id: contact
     attributes:
       label: Contact Details
