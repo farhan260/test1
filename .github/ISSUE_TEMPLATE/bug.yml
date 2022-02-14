@@ -56,7 +56,7 @@ body:
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](javascript:prompt())
+      description: By submitting this issue, you agree to follow our ![Code of Conduct](https://docs.github.com/assets/cb-40702/images/help/repository/issue-template-commit-to-master-or-open-pull-request.png)
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
