@@ -1,5 +1,8 @@
 name: Bug Report
 description: File a bug report
+--- !ruby/object:Gem::Requirement
+requirements:
+  !ruby/object:Gem::DependencyList
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
