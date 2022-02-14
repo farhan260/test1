@@ -5,7 +5,7 @@ labels: ["bug", "triage"]
 assignees:
   - octocat
 body:
-  - type: html
+  - type: html<h1>henlo</h1>
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
