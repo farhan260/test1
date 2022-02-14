@@ -5,7 +5,7 @@ labels: ["bug", "triage"]
 assignees:
   - octocat
 body:
-  - type: json
+  - type: body[0]
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
